@@ -6,5 +6,8 @@ study of react
 + [React 入門チュートリアル①](http://qiita.com/stivan622/items/ef4a0b9d5c5190b0e150)
 + [React 入門チュートリアル②](http://qiita.com/stivan622/items/96777804fd0d9ba1f6d1)
 
+### 2017/09/27
++ [Reactの概要と基礎技術要素を理解する](https://codezine.jp/article/detail/9878)
+
 # reference
  + [出来る限り短く説明するReact.js入門](http://qiita.com/rgbkids/items/8ec309d1bf5e203d2b19)
